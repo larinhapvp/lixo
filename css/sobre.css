@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(248, 215, 240) ;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align:center
+}
+
+
+.texto{
+    text-align:center
+}
+
+.central{
+    text-align: center;
+}
